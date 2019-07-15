@@ -1,22 +1,17 @@
-# 📊 Project: Simple API 2
+# Simple Random Joke Generating App
+This is a small app that returns a joke at the click of a button!
 
-### Goal: Display data returned from an api
 
-### How to submit your code for review:
+![alt tag](http://i68.tinypic.com/4lmuea.jpg)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript, API
+
+I made this by using a randomized joke API. I attached it to an click event listener function, so with each click the user recieves a new joke each time.
+
+## Lessons Learned:
+
+THrough building this project, I learned how APIs work. I learned about JSON and how JSON is basically a giant array that holds a bunch of objects with key-value pairs you can access using a combination of dot notation or optional brackets to select which index you need from the JSON array.
+
+
